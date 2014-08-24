@@ -29,4 +29,5 @@ The script performs the following tasks:
 + Uses nested for loops to pull out and sumarise the clean data to form the tidy data set,
 + Writes the tidy data set to a text file *tidyData.txt* with headers included (note: read this back in to R using read.table with header=TRUE).
 
-
+### Apologies
+To complete the last part of the questions, I used nested for loops as opposed to using R's data manipulation functions.  This method is slower but it is easier to follow.  The decision to use this approach was justified by the small data set that is able to be processed in reasonable time.
