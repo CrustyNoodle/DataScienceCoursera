@@ -20,7 +20,7 @@
 
 
 ## Before we start anything let's make sure we correctly set the working directory
-##scriptDir <- dirname(sys.frame(1)$ofile) 
+scriptDir <- dirname(sys.frame(1)$ofile) 
 setwd(scriptDir)
 
 ## 
