@@ -151,3 +151,6 @@ for(subject in subjectIDs)
     }
 }
 
+
+## Great! now write out the resulting file
+write.table(file="tidyData.txt", x=tidyData, row.names=FALSE)
