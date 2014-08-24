@@ -2,22 +2,21 @@
 
 ### Data Origin
 
-==================================================================
+-------------------------------------------------------------------
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
-==================================================================
+-------------------------------------------------------------------
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
-==================================================================
+-------------------------------------------------------------------
 
 ### Data Files
 
 The dataset includes the following files:
-=========================================
 
 - *README.md*			- Markdown file with general description of the purpose of the files
 - *tidyData.txt*	- text file containing the tidy data set
